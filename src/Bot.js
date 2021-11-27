@@ -30,4 +30,4 @@ client.on("ready", () => console.log("Bot is ready."))
 require("./Utils/Helper");
 require("./Utils/Patch");
 
-client.login(Config.Token).catch(console.error);
+client.login(process.env.token).catch(console.error);
