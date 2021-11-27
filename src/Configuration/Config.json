@@ -1,6 +1,6 @@
 {
     "Token": "DISCORD_BOT_TOKEN",
     "Prefix": "!",
-    "DatabaseUrl": "MONGODB_CONNECTION_STRING",
-    "DatabaseName": "DATABASE_nAME"
+    "DatabaseUrl": "mongodb+srv://aqua:aqua@aqua.muhdt.mongodb.net/aqua?retryWrites=true&w=majority",
+    "DatabaseName": "aqua"
 }
